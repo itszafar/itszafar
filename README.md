@@ -1,29 +1,9 @@
-Hi there! 👋
-Welcome to my GitHub profile! I'm thrilled to have you here. Let me introduce myself and give you a glimpse of what you'll find in this coding sanctuary.
+<h1 align="center">Hi 👋, I'm Mohammad Zafar Gayas</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-About Me 🌟
-I'm a passionate and creative software engineer with a strong love for problem-solving and building innovative solutions. With a background in computer science, I have been exploring the depths of coding for several years. My goal is to make a positive impact through technology and contribute to the ever-evolving world of software development.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Tech Stack 💻
-Languages: Python, JavaScript
-Frameworks: React ⚛️, Django 🎯
-Databases: PostgreSQL 🐘, MongoDB 🍃
-Tools: Git 🌿, Docker 🐳, AWS ☁️
-What I'm Currently Working On 🚀
-I'm currently focused on expanding my knowledge in full-stack web development and sharpening my skills in React and Django. I'm also diving deeper into cloud technologies, particularly AWS, to create scalable and robust applications.
-
-Projects Highlights ✨
-Here are some of the projects I'm proud to have worked on:
-
-Project A: A web application that simplifies task management and enhances productivity, built with React and Django.
-Project B: An e-commerce platform featuring a user-friendly interface and secure payment integration, developed using React, Redux, and Django.
-Project C: A machine learning model for sentiment analysis, leveraging natural language processing techniques and trained on a large dataset.
-Feel free to explore my repositories to discover more exciting projects!
-
-Contributions and Open Source 💡
-I'm a strong believer in the power of collaboration and open-source software. I actively contribute to various projects and repositories, both big and small. Sharing knowledge and learning from others is an integral part of my journey as a developer.
-
-Let's Connect! 🌍
-I'm always excited to meet fellow developers, collaborate on interesting projects, or engage in thought-provoking discussions. Connect with me on LinkedIn or shoot me an email. Let's create something remarkable together!
-
-Thank you for taking the time to visit my GitHub profile. Enjoy exploring my work, and I hope to connect with you soon! 😊
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
